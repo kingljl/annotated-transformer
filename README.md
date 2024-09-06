@@ -1,4 +1,5 @@
 from https://github.com/harvardnlp/annotated-transformer Copy, supports Mac M3 to run through CPU and MPS.
+(Just change the data directory to the. data directory)
 
 Code for The Annotated Transformer blog post:
 
